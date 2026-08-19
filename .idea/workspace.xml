@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50d068dc-d88d-4fe0-9f19-91bfd7ff4607" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/untitled/src/Ejercicio_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/Ejercicio_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Ejercicio_1.executor": "Run",
+    "Application.Ejercicio_2.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
