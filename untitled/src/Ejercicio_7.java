@@ -3,7 +3,7 @@ public class Ejercicio_7 {
 
         double[] calificaciones = {4.0, 3.5, 4.5, 3.0};
         double promedio = calcularPromedioClase(calificaciones);
-         System.out.println("el promedio de ls clase es " + promedio);
+         System.out.println("el promedio de la clase es " + promedio);
     }
     public static double calcularPromedioClase(double[]calificaciones){
         double suma = 0;
