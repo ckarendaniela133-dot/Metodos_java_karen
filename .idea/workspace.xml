@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50d068dc-d88d-4fe0-9f19-91bfd7ff4607" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/untitled/src/Ejercicio_10.java" afterDir="false" />
-    </list>
+    <list default="true" id="50d068dc-d88d-4fe0-9f19-91bfd7ff4607" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,9 +53,9 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ejercicio_9">
-    <configuration name="Ejercicio_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicio_5" />
+  <component name="RunManager" selected="Application.Ejercicio_10">
+    <configuration name="Ejercicio_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio_10" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio_10" />
         <item itemvalue="Application.Ejercicio_9" />
         <item itemvalue="Application.Ejercicio_8" />
         <item itemvalue="Application.Ejercicio_7" />
         <item itemvalue="Application.Ejercicio_6" />
-        <item itemvalue="Application.Ejercicio_5" />
       </list>
     </recent_temporary>
   </component>
